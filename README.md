@@ -1,0 +1,2 @@
+# EarnMoneyEasily
+discord bot 
