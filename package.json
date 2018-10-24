@@ -1,0 +1,14 @@
+{
+  "name":"EarnMoney",
+  "description":"Money",
+  "version":"1.0.0",
+  "main":"bot.py",
+  "scripts":{
+    "start":"node bot.py"
+    },
+    "dependencies":{
+    "discord.py":"0.16.12",
+    "python":"3.6.6"
+    }
+ }
+    
